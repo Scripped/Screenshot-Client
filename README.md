@@ -1,6 +1,6 @@
 # Screenshot-Client
 
-This is a screenshot client
+This is a screenshot client, it takes a link of any page and screenshots it.
 
 # Installation
 

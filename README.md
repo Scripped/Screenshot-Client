@@ -4,7 +4,7 @@ This is a screenshot client, it takes a link of any page and screenshots it.
 
 # Installation
 
-Either download the .zip file
+https://mega.nz/file/to5HBQ4Y#nRsu1UKWPvKyR8-W4PulYkKzAIoXJIan_NCWwmvT1Uo
 
 OR
 
